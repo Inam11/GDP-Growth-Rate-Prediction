@@ -1,6 +1,6 @@
 ---
-title: "DSCI-400 Mid-Term Project"
-author: "Mohammed Faras - 300322175 | Sukhpreet Kaur - 300317913 | Sudhanshu Chadha - 300323597"
+title: "Predition of US GDP Growth Rate using Multiple Linear Regression"
+author: Mohammed Inamalhasan Dastagir Faras 
 date: "21/02/2022"
 output: pdf_document
 ---
